@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "638315722948",
+    "project_id": "qawam-3f7e4",
+    "storage_bucket": "qawam-3f7e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638315722948:android:d39f2f1710115395917191",
+        "android_client_info": {
+          "package_name": "com.mabdelhafz850.qawam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638315722948-4rnre2u1qpkgf21eupiiff2ua5vh0dpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mabdelhafz850.qawam",
+            "certificate_hash": "1120e592609ea91354d4607ebce818777af0452d"
+          }
+        },
+        {
+          "client_id": "638315722948-2cf8egaubr8ndebdv0b4ojddvcue3frn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeW0M48qlirnSYZQXrWf1axhEOYHl5QDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638315722948-2cf8egaubr8ndebdv0b4ojddvcue3frn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
